@@ -6,4 +6,5 @@ Some additions made.
 
 ## TODO
 
-The tests aren't running (I would have thought best practice would be to demonstrate testing at the same time as demonstrating the code).
+1. The tests aren't running (I would have thought best practice would be to demonstrate testing at the same time as demonstrating the code).
+1. If an invalid user name not entered, then an application error is thrown.
