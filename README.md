@@ -1,24 +1,9 @@
-# README
+# Authenticating Users in a Rails Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Based on the [Authenticating Users in a Rails Application By Anthony Alampi tutorial](https://app.pluralsight.com/library/courses/rails-application-authenticating-users/table-of-contents) followed at the end of a free week on Pluralsight.
 
-Things you may want to cover:
+Some additions made.
 
-* Ruby version
+## TODO
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The tests aren't running (I would have thought best practice would be to demonstrate testing at the same time as demonstrating the code).
