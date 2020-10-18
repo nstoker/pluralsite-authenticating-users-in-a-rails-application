@@ -8,3 +8,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 - All changes up to end of section 2 of the tutorial added.
+- Completed to end of sessions section.
+  - Added login and logout links.

@@ -5,7 +5,9 @@
   display: flex;
   flex-wrap: wrap;
   background-color: rgb(241, 241, 241);
-  h1 {
+  h1,
+  h2.login,
+  form {
     flex: 0 0 100%;
     text-align: center;
   }
